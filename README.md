@@ -16,7 +16,7 @@ The objective of this project is to carry out an exhaustive exploratory analysis
 
 Through the analysis, it is sought to obtain conclusions about the supply and demand of housing in the city, as well as about the characteristics of the houses and the areas in which they are located. This analysis can be useful for homeowners in the city, as well as for the general public seeking information on the housing rental market in Buenos Aires.
 
-
+[PROJECT](https://github.com/silvilio/EDA-Airbnb-BuenosAires/blob/main/airbnb_baires.ipynb)
 --- 
 
 ### WHAT WE CAN FIND
