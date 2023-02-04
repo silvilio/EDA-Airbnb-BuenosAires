@@ -22,9 +22,10 @@ Through the analysis, it is sought to obtain conclusions about the supply and de
 ### WHAT WE CAN FIND
 
 <img src="https://github.com/silvilio/EDA-Airbnb-BuenosAires/blob/main/Im%C3%A1genes/output.png" alt="Classification" style="width: 60%; height: auto;" />
-<img src="https://github.com/silvilio/EDA-Airbnb-BuenosAires/blob/main/Im%C3%A1genes/newplot.png" alt="Classification" style="width: 60%; height: auto;" />
 <img src="https://github.com/silvilio/EDA-Airbnb-BuenosAires/blob/main/Im%C3%A1genes/mapa1PNG.PNG" alt="Classification" style="width: 60%; height: auto;" />
 <img src="https://github.com/silvilio/EDA-Airbnb-BuenosAires/blob/main/Im%C3%A1genes/mapa2.PNG" alt="Classification" style="width: 60%; height: auto;" />
+<img src="https://github.com/silvilio/EDA-Airbnb-BuenosAires/blob/main/Im%C3%A1genes/newplot.png" alt="Classification" style="width: 60%; height: auto;" />
+
 
 
 ---
@@ -42,8 +43,9 @@ A través del análisis, se busca obtener conclusiones sobre la oferta y demanda
 ### LO QUE PODEMOS ENCONTRAR
 
 <img src="https://github.com/silvilio/EDA-Airbnb-BuenosAires/blob/main/Im%C3%A1genes/output.png" alt="Classification" style="width: 60%; height: auto;" />
-<img src="https://github.com/silvilio/EDA-Airbnb-BuenosAires/blob/main/Im%C3%A1genes/newplot.png" alt="Classification" style="width: 60%; height: auto;" />
 <img src="https://github.com/silvilio/EDA-Airbnb-BuenosAires/blob/main/Im%C3%A1genes/mapa1PNG.PNG" alt="Classification" style="width: 60%; height: auto;" />
 <img src="https://github.com/silvilio/EDA-Airbnb-BuenosAires/blob/main/Im%C3%A1genes/mapa2.PNG" alt="Classification" style="width: 60%; height: auto;" />
+<img src="https://github.com/silvilio/EDA-Airbnb-BuenosAires/blob/main/Im%C3%A1genes/newplot.png" alt="Classification" style="width: 60%; height: auto;" />
+
 
 
