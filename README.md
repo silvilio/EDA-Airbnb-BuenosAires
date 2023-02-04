@@ -16,8 +16,13 @@ The objective of this project is to carry out an exhaustive exploratory analysis
 
 Through the analysis, it is sought to obtain conclusions about the supply and demand of housing in the city, as well as about the characteristics of the houses and the areas in which they are located. This analysis can be useful for homeowners in the city, as well as for the general public seeking information on the housing rental market in Buenos Aires.
 
+---
+
 [PROJECT](https://github.com/silvilio/EDA-Airbnb-BuenosAires/blob/main/airbnb_baires.ipynb)
---- 
+
+I recommend downloading to be able to view all the interactive graphs correctly.
+
+---
 
 ### WHAT WE CAN FIND
 
@@ -39,6 +44,13 @@ Este proyecto tiene como objetivo llevar a cabo un análisis exploratorio exhaus
 A través del análisis, se busca obtener conclusiones sobre la oferta y demanda de viviendas en la ciudad, así como también sobre las características de las viviendas y las áreas en las que se encuentran. Este análisis puede ser útil para propietarios de alojamientos en la ciudad, así como también para el público en general que busca información sobre el mercado de alquiler de viviendas en Buenos Aires.
 
 --- 
+
+[PROYECTO](https://github.com/silvilio/EDA-Airbnb-BuenosAires/blob/main/airbnb_baires.ipynb)
+
+Recomiendo descargar para poder visualizar todas las gráficas interactivas correctamente.
+
+---
+
 
 ### LO QUE PODEMOS ENCONTRAR
 
